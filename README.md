@@ -55,8 +55,5 @@ if __name__ == "__main__":
 Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
 
 
-Let me know if you need further adjustments or additional information!
-
-
 
 
