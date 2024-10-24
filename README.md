@@ -55,10 +55,6 @@ if __name__ == "__main__":
 Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
 
 
-### How to Use This Code Snippet
-- Copy and paste the above Markdown code into your README file where you want the code to appear. 
-- Make sure to keep the triple backticks at the beginning and end to properly format the code block.
-
 Let me know if you need further adjustments or additional information!
 
 
