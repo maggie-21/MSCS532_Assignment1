@@ -28,9 +28,9 @@ This repository contains the implementation of the Insertion Sort algorithm in P
 1. Open the terminal in VS Code.
 2. Navigate to the cloned repository folder.
 3. Run the following command:
-
-python insertion_sort.py
-
+      ```bash
+      python insertion_sort.py
+      ```
 ## Example
 The program sorts a sample array in monotonically decreasing order. Here’s a sample implementation in insertion_sort.py:
 
